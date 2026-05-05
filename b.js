@@ -5,3 +5,7 @@ function b(str,len){
 function c(x){
     return b('asas', x)
 }
+
+function d(){
+
+}
